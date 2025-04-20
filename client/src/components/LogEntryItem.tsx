@@ -38,8 +38,7 @@ const LogEntryItem: React.FC<LogEntryItemProps> = ({ entry, onSave, onDelete }) 
 
   // Format the date for display
   const formatDate = (dateString: string) => {
-    const date = new Date(dateString);
-    return date.toLocaleDateString();
+    return new Date(dateString).toLocaleDateString('en-US', {timeZone: 'UTC'});
   };
 
   return (
