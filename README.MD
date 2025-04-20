@@ -1,6 +1,6 @@
 # Log Entry Manager
 
-A full stack web application for managing log entries with CRUD functionality. This application allows users to create, read, update, and delete log entries, with each entry containing a name, description, date, and location.
+A full stack web application for managing log entries.
 
 ## Features
 
@@ -26,7 +26,7 @@ A full stack web application for managing log entries with CRUD functionality. T
 ### Clone the repository
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/stephzilla/log-entry-manager.git
 cd log-entry-manager
 ```
 
