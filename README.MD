@@ -9,12 +9,13 @@ A full stack web application for managing log entries.
 - Responsive design that works on both mobile and desktop
 - Local data storage using SQLite
 
-## Technologies Used
+## Tools + Technologies Used
 
 - **Frontend**: React, TypeScript, CSS
 - **Backend**: Node.js, Express, TypeScript
 - **Database**: SQLite (using better-sqlite3)
 - **Testing**: Vitest, React Testing Library
+- **Dev Tools**: VS Code, claude.ai, MDN Web Docs, Stack Overflow, Canva Color Palettes
 
 ## Prerequisites
 
